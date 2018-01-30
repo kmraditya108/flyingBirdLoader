@@ -52,7 +52,7 @@ Important Notes :-
 
 1) add:-  @keyframes animtion_name{
 			to{your_style} 
-			from{your style}
+			from{your_style}
 		}
 		
 		Like:
