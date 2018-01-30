@@ -12,6 +12,17 @@ Important Notes :-
       var bird_loader_img_standing = "";	(This variable is to show the standing bird)
     b) in ready function initiate the value for these both variable.
     
+ 
+ 
+ 
+Demo :-
+
+![Alt Text](https://github.com/kmraditya108/flyingBirdLoader/blob/master/flyingBirdLoaderGif.gif)
+    
+ 
+ 
+ 
+
 ==================In HTML Page=========================
 1) add jQuery library as a CDN or offline library.
     like:<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
