@@ -50,10 +50,11 @@ Important Notes :-
 
 ==================In CSS Page==============================
 
-1) add @keyframes animtion_name{
+1) add:-  @keyframes animtion_name{
 			to{your_style} 
 			from{your style}
 		}
+		
 		Like:
 		
 		@keyframes example{
