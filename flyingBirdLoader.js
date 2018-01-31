@@ -1,7 +1,3 @@
-$(document).ready(function(){
-	//console.log(typeof bird_loader_img_standing+" : bird_loader_img_standing == bird_loader_img_fly : "+bird_loader_img_fly);
-	//console.log("flying bird loader has been active..")
-});
 //to load the element
 function addLoader(animation_delay, aftr_fly_brd_top_pos, aftr_fly_brd_left_pos, brd_height, brd_width){
 	var bird_height = "";
